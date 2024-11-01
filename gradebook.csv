@@ -1,0 +1,11 @@
+StudentID,Name,Marks_Course1,Marks_Course2,Marks_Course3,ExamDate,Branch
+100,Raghu,80,75,90,2018-03-18,IT
+101,Priya,85,65,90,2018-03-18,Non-IT
+102,Kavya,90,85,95,2018-03-18,IT
+103,Udayan,95,95,98,2018-04-19,IT
+104,Mohan,89,95,75,2018-04-19,IT
+105,Mallik,89,90,89,2018-04-19,IT
+106,Amit,45,55,45,2018-05-20,Non-IT
+107,Shankar,55,88,56,2018-05-20,Non-IT
+108,Vinay,75,75,88,2018-05-18,Non-IT
+109,Chandrika,90,89,96,2018-05-18,IT
